@@ -1,4 +1,7 @@
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
 "------------------------------------------------------------
+"
 " Features {{{1
 "
 " These options and commands enable some very useful features in Vim, that
